@@ -1,3 +1,4 @@
+javascript password generator
 image of deployed web page
 <img src="./images/2022-06-07 (6).png" alt="image of deployed web page">
 image of password length prompt
